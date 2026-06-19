@@ -1,0 +1,21 @@
+# Entorno virtual
+yolo-env/
+
+# Pesos del modelo
+*.pt
+
+# Dataset
+datasets_bus27/
+
+# Resultados de entrenamiento
+runs/
+
+# Datos persistentes
+tiempos.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+*.env
